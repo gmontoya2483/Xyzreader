@@ -1,0 +1,7 @@
+#Sun Feb 19 19:12:37 GMT 2017
+base.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1c2aeb6ccf60c1c863ddf9ba7e51b0550271640\\classes.dex
+base.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1c2aeb6ccf60c1c863ddf9ba7e51b0550271640
+file.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac\\classes.dex
