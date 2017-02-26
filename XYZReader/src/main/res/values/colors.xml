@@ -30,6 +30,14 @@
     <color name="color_700">#7B1FA2</color>
     <color name="accent_200">#FF4081</color>
 
+    <!-- Font colors -->
+    <color name="font_black_100">#000000</color>
+    <color name="font_PrimaryText_87">#DE000000</color>
+    <color name="font_SecondaryText_54">#8A000000</color>
+    <color name="font_Disable_38">#61000000</color>
+    <color name="Divider_12">#1F000000</color>
+
+
 
 
 </resources>

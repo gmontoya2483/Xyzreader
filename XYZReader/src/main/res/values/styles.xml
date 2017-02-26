@@ -23,6 +23,21 @@
         <item name="android:colorAccent">@color/accent_200</item>
    </style>
 
+
+
+
+
+    <style name="CardHeader" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:textColor">@color/font_PrimaryText_87</item>
+    </style>
+
+    <style name="CardBody" parent="@style/TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/font_Disable_38</item>
+    </style>
+
+
+
+
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
