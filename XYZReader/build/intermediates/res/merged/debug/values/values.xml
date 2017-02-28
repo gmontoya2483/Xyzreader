@@ -1372,9 +1372,10 @@
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:colorPrimary">@color/color_500</item>
+
         <item name="android:colorPrimaryDark">@color/color_700</item>
         <item name="android:colorAccent">@color/accent_200</item>
+        <item name="colorPrimary">@color/color_500</item>
     </style>
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
