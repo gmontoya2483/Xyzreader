@@ -1,7 +1,7 @@
-#Tue Feb 28 12:02:18 CET 2017
-base.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1c2aeb6ccf60c1c863ddf9ba7e51b0550271640\\classes.dex
-base.1=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b1c2aeb6ccf60c1c863ddf9ba7e51b0550271640
-file.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac\\classes.dex
+#Wed Mar 01 15:15:22 CET 2017
+base.0=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a988c173377fbf29ade93ce11126e3d0bafbeba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_682d6df4d74d7c20d3144192406a82b9a00246e5\\classes.dex
+base.1=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_682d6df4d74d7c20d3144192406a82b9a00246e5
+file.0=C\:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a988c173377fbf29ade93ce11126e3d0bafbeba\\classes.dex
