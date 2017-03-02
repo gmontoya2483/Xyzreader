@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="23"
+    abi="x86"
+    api-level="22"
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="27886334995359"
-    token="-8037387401451588700"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="28268139976347"
+    token="6198749227924380825"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1634" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="700" />
     <task
         name="verifier"
-        duration="0" />
+        duration="227" />
 
     <artifact
-        location="C:\Users\Gabriel\Documents\Projects\Android\Xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="25072562190098"
+        timestamp="28268139976347"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\Xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="27886334995359"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Gabriel\Documents\Projects\Android\Xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

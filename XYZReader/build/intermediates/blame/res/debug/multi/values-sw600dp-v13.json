@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 189
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 259
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 338
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 473
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 544
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -163,13 +163,13 @@
                     "endOffset": 669
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 332,
+                        "startOffset": 325,
                         "endColumn": 56,
-                        "endOffset": 384
+                        "endOffset": 377
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 722
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 93,
+                        "startOffset": 90,
                         "endColumn": 52,
-                        "endOffset": 141
+                        "endOffset": 138
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 91,
+                        "startOffset": 88,
                         "endColumn": 54,
-                        "endOffset": 141
+                        "endOffset": 138
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 834
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 147,
+                        "startOffset": 143,
                         "endColumn": 56,
-                        "endOffset": 199
+                        "endOffset": 195
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 900
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 265,
+                        "startOffset": 259,
                         "endColumn": 65,
-                        "endOffset": 326
+                        "endOffset": 320
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 959
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 205,
+                        "startOffset": 200,
                         "endColumn": 58,
-                        "endOffset": 259
+                        "endOffset": 254
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 38,
+                        "startOffset": 36,
                         "endColumn": 51,
-                        "endOffset": 85
+                        "endOffset": 83
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1065
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 38,
+                        "startOffset": 36,
                         "endColumn": 53,
-                        "endOffset": 87
+                        "endOffset": 85
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1107
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 243,
+                        "startOffset": 238,
                         "endColumn": 41,
-                        "endOffset": 280
+                        "endOffset": 275
                     }
                 }
             },
@@ -334,7 +334,7 @@
                     "endOffset": 1170
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1234
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 1299
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1350
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 1401
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1493
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1539
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -467,13 +467,13 @@
                     "endOffset": 1634
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 147,
+                        "startOffset": 143,
                         "endColumn": 94,
-                        "endOffset": 237
+                        "endOffset": 233
                     }
                 }
             },
@@ -486,7 +486,7 @@
                     "endOffset": 1689
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1745
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -525,7 +525,7 @@
                     "endOffset": 1927
                 },
                 "from": {
-                    "file": "C:\\Users\\Gabriel\\Documents\\Projects\\Android\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "C:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
