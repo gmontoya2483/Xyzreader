@@ -104,10 +104,8 @@
 
     <style name="ToolBar_layoutIten">
         <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
-        <item name="layout_marginLeft">@dimen/list_toolbar_side_margin</item>
-        <item name="android:layout_marginStart">@dimen/list_toolbar_side_margin</item>
+        <item name="android:layout_marginLeft">@dimen/list_toolbar_side_margin</item>
         <item name="android:layout_marginRight">@dimen/list_toolbar_side_margin</item>
-        <item name="layout_marginEnd">@dimen/list_toolbar_side_margin</item>
         <item name="android:layout_gravity">bottom</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">?actionBarSize</item>
