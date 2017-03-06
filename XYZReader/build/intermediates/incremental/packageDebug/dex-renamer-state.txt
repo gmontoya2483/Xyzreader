@@ -1,4 +1,4 @@
-#Mon Mar 06 10:13:10 CET 2017
+#Mon Mar 06 16:09:23 CET 2017
 base.0=C\:\\Users\\montoya\\Documents\\Android\\Udacity\\Xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac
 renamed.1=classes2.dex
 renamed.0=classes.dex
