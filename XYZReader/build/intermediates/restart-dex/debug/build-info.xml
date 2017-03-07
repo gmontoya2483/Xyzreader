@@ -5,33 +5,40 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="8658581366055"
+    timestamp="14615352429173"
     token="6198749227924380825"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2563" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1002" />
+        duration="0" />
     <task
         name="verifier"
-        duration="288" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="8658581366055"
+        timestamp="10768038544688"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="14615352429173"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
