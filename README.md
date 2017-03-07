@@ -2,9 +2,9 @@
 
 * [About](#about)
 * [What did I learn](#what-did-i-learn)
-* [Required Tasks check list](#required_tasks-check-list)
-* [Rubric check list]()
-* [Implemantation]()
+* [Required Tasks check list](#required-tasks-check-list)
+* [Rubric check list](#rubric-check-list)
+* [Implementation](#implementation)
 * [Todo](#todo)
 
 
@@ -49,7 +49,7 @@ Through this project, I did:
 - [x] App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 - [x] App conforms to common standards found in the Android Nanodegree General Project Guidelines.
 
-## Implemantation
+## Implementation
 
 ### Gradle Configuration
 
