@@ -16,7 +16,7 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="AppBar_layout_height">112dp</dimen>
-    <dimen name="AppBar_elevation">8dp</dimen>
+    <dimen name="AppBar_elevation">4dp</dimen>
 
     <dimen name="CollapsingToolBar_title_margin">72dp</dimen>
 
