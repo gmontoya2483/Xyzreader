@@ -2,7 +2,7 @@
 
 * [About](#about)
 * [What did I learn](#what-did-i-learn)
-* [Required Tasks check list]()
+* [Required Tasks check list](#required_tasks-check-list)
 * [Rubric check list]()
 * [Implemantation]()
 * [Todo](#todo)
