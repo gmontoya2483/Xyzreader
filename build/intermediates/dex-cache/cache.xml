@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="ddc3089485723303397c742848e61043f2e7155b">
+        sha1="6b01cc45459f257764245cfb5f161efa4642cdb5">
         <dex dex="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1c2aeb6ccf60c1c863ddf9ba7e51b0550271640\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="941114933453133e8b2eac89e1c9ec2971d90c74">
+        sha1="3e494eaa46317c5f6bf2146b0d9dc5888e186bca">
         <dex dex="C:\Users\montoya\Documents\Android\Udacity\Xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54ef0a08d27f8cd9836bf313f06ecc663a9e4fac\classes.dex" />
     </item>
     <item

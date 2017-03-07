@@ -87,6 +87,8 @@
         android:layout_gravity="bottom|end"
         android:id="@+id/share_fab"
         android:src="@drawable/ic_share"
+
+
         >
 
     </android.support.design.widget.FloatingActionButton>
